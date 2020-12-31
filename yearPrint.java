@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//년도를 입력받아 출력
+
 public class yearPrint {
     public static void main(String[] args) {
         System.out.print("년도(1000~9999)를 입력하세요: ");
